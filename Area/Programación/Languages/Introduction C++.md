@@ -1,0 +1,1 @@
+C++ is a general-purpose programming language created By Bjarne Stroustrup in the 1980s as an extension of the C programming language. It incorporates features of object-oriented programming (OOP) such as classes and objects, as well as support for generic programming. Key characteristics include:
