@@ -1,0 +1,1 @@
+A multiset is a collection of elements where duplicates are allowed, and the count of each element is sotred.

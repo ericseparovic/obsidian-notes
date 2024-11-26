@@ -1,0 +1,4 @@
+1. **Arrays/Lists:** Sets can be implemented using arrays or lists by ensuring elements are unique. Operations like search, insertion, and deletion require linear time $O(n)$, making this approach simple but inefficient for large sets.
+2. **Linked Lists:** Linked lists are dynamic, allowing efficient insertions. However, operations like search and deletion still take  $O(n)$, making them better for small or dynamic sets but less efficient for large ones.
+3. **Hash Tables:** Hash Tables offer $O(1)$ time complexity for insertion, search, and deletion. They ensure element uniqueness automatically through hashing but requiere extra memory and handle collisions.
+4. **Binary Search:** Binary search trees allow efficient $O(log n)$ operations and keep elements ordered. They are ideal for sets that requiere sorted data and perform well with balanced trees like AVL or Red-Black Trees. 

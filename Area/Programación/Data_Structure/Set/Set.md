@@ -1,3 +1,10 @@
 1. [[What is a Set in Data Structure?]]
 2. [[What are the operations performed on sets in programming?]]
-3. 
+3. [[What are the main ways to implement sets?]]
+4. [[How can a set be implemented using a boolean array?]]
+5. [[What is a time complexity a set be implemented using a boolean array?]]
+6. [[How can a set be implemented using a linked list?]]
+7. [[What is a time complexity a set be implemented using a linked list?]]
+8. [[How implement set using hash table?]]
+9. [[What is a time complexity a set be implemented using a Hash Table?]]
+10. [[How can a set be implemented using a AVL?]]
